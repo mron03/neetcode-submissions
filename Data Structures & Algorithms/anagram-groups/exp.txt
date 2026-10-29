@@ -1,0 +1,2 @@
+Create a freq array for 26 characters.
+Count each string char freq using the array and use the array as a key for dictionary
